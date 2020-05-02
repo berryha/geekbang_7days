@@ -1,4 +1,4 @@
-package day2.geekbang.berry;
+package com.geekbang.berry;
 
 public class Solution {
 	public int removeDuplicates(int[] nums) {

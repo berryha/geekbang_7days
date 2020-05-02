@@ -1,4 +1,4 @@
-package day2.geekbang.berry;
+package com.geekbang.berry;
 
 public class Test {
 	public static void main(String[] args) {
